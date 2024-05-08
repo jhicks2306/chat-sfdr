@@ -1,5 +1,7 @@
 # chat-sfdr
 
+Retrieval Augmented Generation (RAG) API for SFDR regulation.
+
 ## Installation
 
 Install the LangChain CLI if you haven't yet
